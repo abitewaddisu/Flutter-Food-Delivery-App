@@ -4,9 +4,7 @@ This Flutter Food Delivery App UI is a project developed as part of the 100 Days
 
 ## Screenshots
 
-![one](https://github.com/abitewaddisu/Flutter-Food-Delivery-App/assets/104774854/f8644be9-59c4-48fa-b027-8fa76d8b2aec)
-![two](https://github.com/abitewaddisu/Flutter-Food-Delivery-App/assets/104774854/0a175ac3-b5a8-413d-ae8f-22d292a408b0)
-![three](https://github.com/abitewaddisu/Flutter-Food-Delivery-App/assets/104774854/be24e71d-fd25-4785-95bf-626d6ebc2225)
+<img src="assets/screenshot/one.png" height="500em" /><img src="assets/screenshot/two.png" height="500em" /><img src="assets/screenshot/three.png" height="500em" />
 
 ## Getting Started
 To run the Flutter Food Delivery App locally, follow these steps:
